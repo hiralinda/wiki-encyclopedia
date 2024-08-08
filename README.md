@@ -89,6 +89,16 @@
 - **Templates**: Edit HTML templates in `encyclopedia/templates/encyclopedia/` for custom layouts.
 - **JavaScript**: Add or modify JavaScript in `static/js/scripts.js` for custom functionality.
 
+## Future Improvements and Features
+
+- **User Accounts**: Allow users to create accounts, log in, and manage their profiles.
+- **Permissions**: Implement different user roles, with varying access to creating, editing, or deleting entries.
+- **History and Version Control**: Track changes to entries, allowing users to view and revert to previous versions.
+- **Full-Text Search**: Enable searching within the content of entries, not just by title.
+- **Search Suggestions**: Provide search suggestions as users type in the search bar.
+- **Categories**: Organize entries into categories or topics for easier browsing.
+- **Tags**: Implement a tagging system to enable keyword search.
+
 ## Acknowledgements
 
 - [Django Documentation](https://docs.djangoproject.com/)
