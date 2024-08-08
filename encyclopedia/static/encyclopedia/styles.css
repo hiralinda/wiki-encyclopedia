@@ -1,0 +1,60 @@
+body {
+    font-family: 'Linux Libertine', 'Arial', sans-serif;
+    background-color: #f8f9fa;
+    color: #222;
+}
+.font-arial {
+    font-family: 'Linux Libertine', 'Arial', sans-serif;
+}
+.sidebar {
+    background-color: #f8f9fa;
+    border-right: 1px solid #a2a9b1;
+}
+.sidebar .nav-link {
+    color: #0645ad;
+}
+.sidebar .nav-link:hover {
+    color: #0b0080;
+    text-decoration: underline;
+}
+.sidebar-heading {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #222;
+}
+.title-heading {
+    font-size: 2.0rem;
+    font-weight: bold;
+    color: #222;
+}
+
+.form-control, .btn {
+    border-radius: 0;
+}
+.btn-outline-success {
+    color: #0645ad;
+    border-color: #0645ad;
+}
+.btn-outline-success:hover {
+    background-color: #0645ad;
+    color: #fff;
+}
+.dark-mode {
+    background-color: #1a1a1a;
+    color: #f8f9fa;
+}
+.dark-mode-sidebar {
+    background-color: #1a1a1a;
+}
+.dark-mode .nav-link {
+    color: #9ecfff;
+}
+.dark-mode .nav-link:hover {
+    color: #add8e6;
+}
+.dark-mode .title-heading {
+    color: #a2a9b1;
+}
+.dark-mode .sidebar-heading {
+    color: #a2a9b1;
+}
