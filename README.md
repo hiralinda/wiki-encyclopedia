@@ -2,6 +2,10 @@
 
 [This project](https://cs50.harvard.edu/web/2020/projects/1/wiki/) is a part of the CS50 Web Programming with Python and JavaScript course. It is a simple Wiki Encyclopedia built using Django. The application allows users to browse, search, create, edit, and view random encyclopedia entries written in Markdown. The entries are converted to HTML for display. The project also includes Bootstrap 5 for styling, Google Fonts for typography, and a dark mode option. 
 
+## Video Preview
+
+[Video Link](https://youtu.be/o1lEu2gQYtY)
+
 ## Features
 
 - **Entry Page**: View the content of an encyclopedia entry.
