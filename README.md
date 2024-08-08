@@ -21,7 +21,7 @@
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/wiki-encyclopedia.git
+    git clone https://github.com/hiralinda/wiki-encyclopedia.git
     cd wiki-encyclopedia
     ```
 
